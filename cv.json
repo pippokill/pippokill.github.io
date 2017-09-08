@@ -1,0 +1,236 @@
+{
+  "firstName": "Pierpaolo",
+  "lastName": "Basile",
+  "position": "Assistant Professor",
+  "quote": "The future isn't what you think.",
+  "photo": "img/pierpaolo.png",
+  "contacts": [{
+    "type": "phone",
+    "text": "(+39) 080-5442301",
+    "url": ""
+  }, {
+    "type": "email",
+    "text": "pierpaolo.basile@gmail.com",
+    "url": "mailto:pierpaolo.basile@gmail.com"
+  }, {
+    "type": "homepage",
+    "text": "Pierpaolo Basile Website",
+    "url": "http://pippokill.github.io/"
+  }],
+  "socials": [{
+    "type": "homepage",
+    "text": "Pierpaolo Basile",
+    "url": "http://pippokill.github.io/"
+  }, {
+    "type": "github",
+    "text": "pippokill",
+    "url": "https://github.com/pippokill"
+  }, {
+    "type": "linkedin",
+    "text": "Pierpaolo Basile",
+    "url": "https://www.linkedin.com/in/pierpaolobasile"
+  }, {
+    "type": "twitter",
+    "text": "basilepp",
+    "url": "https://www.twitter.com/basilepp"
+  }],
+  "sections": [{
+    "title": "Summary",
+    "description": "Assistant Professor at the Department of Computer Science, University of Bari Aldo Moro, Italy. Also co-founder and CTO of QuestionCube."
+  }, {
+    "title": "Education",
+    "type": "detail",
+    "items": [{
+      "title": "Ph.D. in Computer Science",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "May. 2009",
+      "descriptions": [
+        "Ph.D. in Computer Science. Thesis title :“Word Sense Disambiguation and Intelligent Information Access”, Advisor: Professor Giovanni Semeraro"
+      ]
+    }, {
+      "title": "Master degree in Computer Science",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Jul. 2013 - Jan. 2016",
+      "descriptions": [
+        "Master degree in Computer Science. Thesis title: “JIGSAW: un algoritmo di disambiguazione diversificato per ogni categoria grammaticale” (JIGSAW: a word sense disambiguation algorithm with different approaches for each part-of-speech), Supervisor: Professor Giovanni Semeraro"
+      ]
+    }]
+  }, {
+    "title": "Work Experience",
+    "type": "detail",
+    "items": [{
+      "title": "Assistant Professor",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Jan. 2016 - Present",
+      "descriptions": [
+        "Assistant Professor at the Department of Computer Science, University of Bari Aldo Moro, project title: Multilingual Entity Linking"
+      ]
+    }, {
+      "title": "Post-Doctoral Researcher",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Jul. 2013 - Jan. 2016",
+      "descriptions": [
+        "Post-Doctoral Researcher at the Department of Computer Science, University of Bari Aldo Moro, project title: Compositional operators in Distributional Semantic Models"
+      ]
+    }, {
+      "title": "Post-Doctoral Researcher",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Jun. 2009 - Jun. 2013",
+      "descriptions": [
+        "Post-Doctoral Researcher at the Department of Computer Science, University of Bari Aldo Moro, project title: Methods and techniques for the semantic indexing of textual documents"
+      ]
+    }, {
+      "title": "Employment Contract",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Dec. 2008 - May. 2009",
+      "descriptions": [
+        "Evaluation of a recommender system for the regional project DIPIS"
+      ]
+    }, {
+      "title": "Employment Contract",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Dec. 2008 - May. 2009",
+      "descriptions": [
+        "Development of a content-based recommender system for the European project VIKEF"
+      ]
+    }, {
+      "title": "Internship",
+      "organization": "IXA Research Group, Department of Computer Science, University of Basque Country",
+      "location": "Basque Country, Spain",
+      "date": "May. 2008 - Jul. 2008",
+      "descriptions": [
+        "Internship under the supervision of the Professor Eneko Agirre. The aim of this collaboration was the combination of several word sense disambiguation approaches by exploiting meta learning strategies"
+      ]
+    }]
+  }, {
+    "title": "Participation in Evaluation Campaigns",
+    "type": "simple",
+    "items": [{
+      "title": "Kaggle",
+      "organization": "The Allen AI Science Challenge - Team: A pure logical approach (5th position in the public leaderboard)",
+      "location": "",
+      "date": "2016"
+    }, {
+      "title": "#Microposts2015 Making Sense of Microposts",
+      "organization": "Making Sense of Microposts - Named Entity rEcognition and Linking (NEEL) Challenge",
+      "location": "",
+      "date": "2015"
+    }, {
+      "title": "SemEval-2015",
+      "organization": "Sentiment Analysis in Twitter",
+      "location": "",
+      "date": "2015"
+    }, {
+      "title": "SemEval-2015",
+      "organization": "Multilingual All-Words Sense Disambiguation and Entity Linking",
+      "location": "",
+      "date": "2015"
+    }, {
+      "title": "EVALITA 2014",
+      "organization": "SENTIment POLarity Classification (SENTIPOLC), 1st position in the final rank",
+      "location": "",
+      "date": "2014"
+    }, {
+      "title": "SemEval-2014",
+      "organization": "Cross-Level Semantic Similarity",
+      "location": "",
+      "date": "2014"
+    }, {
+      "title": "ESWC 2014",
+      "organization": "Linked Open Data-Enabled Recommender System Challenge: 1st position in the final rank for the Top-N recommendation from binary user feedback task",
+      "location": "",
+      "date": "2014"
+    }, {
+      "title": "*SEM 2013",
+      "organization": "Shared task on Semantic Textual Similarity",
+      "location": "",
+      "date": "2013"
+    }, {
+      "title": "SemEval-2012",
+      "organization": "Semantic Textual Similarity",
+      "location": "",
+      "date": "2012"
+    }, {
+      "title": "EVALITA 2011",
+      "organization": "Evaluation of NLP and Speech Tools for Italian 2011 - Super Sense Tagging, 1st position in the final rank",
+      "location": "",
+      "date": "2011"
+    }, {
+      "title": "SemEval-2 Task 2",
+      "organization": "Cross-Lingual Lexical Substitution, Uppsala (Sweden), July 15-16, 2009, 1st position in the final rank",
+      "location": "",
+      "date": "2009"
+    }, {
+      "title": "EVALITA 2009",
+      "organization": "Evaluation of NLP and Speech Tools for Italian 2009 - Lexical Substitution Task, 1st position in the final rank",
+      "location": "",
+      "date": "2009"
+    }, {
+      "title": "CLEF-2009",
+      "organization": "Ad-hoc Robust WSD Task, 1st position in the final rank of one of the four organized subtasks",
+      "location": "",
+      "date": "2009"
+    }, {
+      "title": "CLEF-2008",
+      "organization": "Ad-hoc Robust WSD Task",
+      "location": "",
+      "date": "2008"
+    }, {
+      "title": "EVALITA 2007",
+      "organization": "Evaluation of NLP and Speech Tools for Italian 2007 - WSD All-Word Task, 1st position in the final rank",
+      "location": "",
+      "date": "2007"
+    }, {
+      "title": "SemEval-1 Task 1",
+      "organization": "Evaluating Word Sense Disambiguation on Cross-Language Information Retrieval",
+      "location": "",
+      "date": "2007"
+    }]
+  }, {
+    "title": "Awards",
+    "type": "simple",
+    "items": [{
+      "title": "Future in Research. Author of the project ``Multilingual Entity Linking'' funded by the Apulia Region (Future In Research program) for the funding of 170 fixed-term research positions in the Apulia universities.",
+      "organization": "Apulia Region",
+      "location": "Apulia, Italy",
+      "date": "2016"
+		}, {
+      "title": "CLiC-it 2014 Best Young Paper Award, Analysing Word Mining over Time by Exploiting Temporal Random Indexing",
+      "organization": "First Italian Conference on Computational Linguistics",
+      "location": "Pisa, Italy",
+      "date": "2014"
+		}, {
+      "title": "Distinguished Ph.D. theses 2009-2010",
+      "organization": "Special Interest Group on Natural Language Processing of the Italian Association for Artificial Intelligence",
+      "location": "Italy",
+      "date": "2010"
+		}]
+  }, {
+    "title": "Participation in Innovative Startups",
+    "type": "detail",
+    "items": [{
+      "title": "Co-founder of Zenfeed, http://www.zenfeed.me/",
+      "organization": "Zenfeed srl",
+      "location": "Andria, Italy",
+      "date": "2013 - 2016",
+      "descriptions": [
+        "Zenfeed is a smart news reader able to sort news according to user interests. I am responsible of research activities. Zenfeed was financed by the Principi Attivi 2012 program of the Apulia Region. Zenfeed won the business competition “Valore Assoluto” organized by the Camera di Commercio of Bari. Zenfeed received an early stage funding by United Ventures and LVenture Group. Zenfeed has been participated in the 2014 Startup School organized by the Mind the Bridge Foundation at San Francisco"
+      ]
+		}, {
+      "title": "Co-founder of QuestionCube, http://www.questioncube.com/",
+      "organization": "QuestionCube srl",
+      "location": "Bari, Italy",
+      "date": "2011 - Present",
+      "descriptions": [
+        "QuestionCube develops solutions for natural language processing, semantic search and question answering. I am responsible of the research unit about natural language processing. QuestionCube won the Lamarck prize for young innovative startups, and was one of the winner of the Apps4Italy competition organized by the Forum PA"
+      ]
+		}]
+  }]
+}
