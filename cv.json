@@ -1,7 +1,7 @@
 {
   "firstName": "Pierpaolo",
   "lastName": "Basile",
-  "position": "Assistant Professor",
+  "position": "Associate Professor",
   "quote": "The future isn't what you think.",
   "photo": "img/pierpaolo.png",
   "contacts": [{
@@ -36,7 +36,7 @@
   }],
   "sections": [{
     "title": "Summary",
-    "description": "Assistant Professor at the Department of Computer Science, University of Bari Aldo Moro, Italy. Also co-founder and CTO of QuestionCube."
+    "description": "Associate Professor at the Department of Computer Science, University of Bari Aldo Moro, Italy. Also co-founder and CTO of QuestionCube."
   }, {
     "title": "Education",
     "type": "detail",
@@ -61,10 +61,18 @@
     "title": "Work Experience",
     "type": "detail",
     "items": [{
+      "title": "Associate Professor",
+      "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
+      "location": "Bari, Italy",
+      "date": "Dec. 2021 - Present",
+      "descriptions": [
+        "Assistant Professor at the Department of Computer Science, University of Bari Aldo Moro, project title: Multilingual Entity Linking"
+      ]
+    },{
       "title": "Assistant Professor",
       "organization": "Department of Computer Sciece, University of Bari Aldo Moro",
       "location": "Bari, Italy",
-      "date": "Jan. 2016 - Present",
+      "date": "Jan. 2016 - Dec, 2021",
       "descriptions": [
         "Assistant Professor at the Department of Computer Science, University of Bari Aldo Moro, project title: Multilingual Entity Linking"
       ]
