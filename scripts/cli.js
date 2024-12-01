@@ -29,7 +29,7 @@ cli.execute = (cmd) => {
             const joke = jokes[Math.floor(Math.random() * jokes.length)];
             result.success = true;
             result.output = `${joke.question}<br /><br />${joke.answer}`;
-        }  else if (values[0] === "ls") {
+        } else if (values[0] === "ls") {
             result.success = true;
             result.output = `<p>Hey! I am not a real OS.</p>`;
         } else if (values[0] === "cd") {
@@ -41,6 +41,9 @@ cli.execute = (cmd) => {
         } else if (values[0] === "format") {
             result.success = true;
             result.output = `<p>Disk formatting...</p><br><p>...OK! (0 bytes available)</p>`;
+        } else if (values[0] === "hello") {
+            result.success = true;
+            result.output = `<p>Hello World!</p>`;
         }
         else {      
             let command = getCommand(values[0]);
