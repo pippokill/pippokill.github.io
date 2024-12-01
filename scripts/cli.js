@@ -283,7 +283,7 @@ const commands = [
             {
                 argument: "-r",
                 output: "<div class='output'> \
-                            <span class='bg-green'RESEARCH INTERESTS</span> \
+                            <p><span class='bg-green'>RESEARCH INTERESTS</span></p> \
                             <p>Natural Language Processing</p> \
                             <ul class='output dash'> \
                                 <li>Large Language Models</li> \
