@@ -26,7 +26,7 @@ cli.execute = (cmd) => {
 
     if (values) {
         if (values[0] === "joke") {
-            const joke = jokes[Math.floor(Math.random() * 9)];
+            const joke = jokes[Math.floor(Math.random() * jokes.length)];
             result.success = true;
             result.output = `${joke.question}<br /><br />${joke.answer}`;
         }  else if (values[0] === "ls") {
